@@ -1,0 +1,103 @@
+{
+	"metas": [],
+	"title": "Multitransports",
+	"description": "Transports économique et écologique.",
+	"colors": {
+		"light": "#fdfdfd",
+		"dark": "#383e4a",
+		"primary": "#78a63a",
+		"secondary": "darken(#78a63a,17.5%)"
+	},
+	"fonts": [
+		{
+			"name": "Open Sans",
+			"import": "open-sans"
+		},
+		{
+			"name": "Rubik",
+			"import": "rubik"
+		}
+	],
+	"url": "http://www.sardescu.com",
+	"labels": [
+		{
+			"label": "callnow",
+			"text": "Appeler maintenant"
+		},
+		{
+			"label": "allrights",
+			"text": "Tous droits réservés."
+		},
+		{
+			"label": "followus",
+			"text": "Suivez-nous"
+		},
+		{
+			"label": "writeus",
+			"text": "Écrivez-nous"
+		},
+		{
+			"label": "callus",
+			"text": "Appelez-nous"
+		},
+		{
+			"label": "goto",
+			"text": "Aller à"
+		},
+		{
+			"label": "more",
+			"text": "plus"
+		}
+	],
+	"author": "RumblButz",
+	"robots": "index,follow",
+	"brand_logo": "/img/logo.white.svg",
+	"navs": [
+		{
+			"label": "Contact",
+			"href": "/contact"
+		},
+		{
+			"label": "Mentions légales",
+			"href": "/legal/imprint"
+		},
+		{
+			"label": "Protection des données",
+			"href": "/legal/privacy"
+		}
+	],
+	"copyright": {
+		"year": "2022",
+		"enabled": true
+	},
+	"switches": {
+		"theme": true,
+		"animate": true
+	},
+	"icons": {
+		"home": "FaSolidHome",
+		"phone": "FaSolidPhoneSquare",
+		"lock": "FaSolidLock",
+		"envelope": "FaSolidEnvelope",
+		"calendar": "FaSolidCalendar",
+		"map": "FaMap",
+		"check": "FaSolidCheck",
+		"question": "FaSolidQuestionCircle",
+		"left": "FaSolidArrowLeft",
+		"right": "FaSolidArrowRight",
+		"share": "FaSolidShare",
+		"star": "FaSolidStar",
+		"cookies": "FaSolidCookieBite",
+		"themeDark": "FaSolidMoon",
+		"themeLight": "FaSolidSun"
+	},
+	"theme": "light",
+	"forms": {
+		"contact": {
+			"settings": {
+				"submit_method": "POST",
+				"submit_action": "https://formspree.io/f/mzbwporw"
+			}
+		}
+	}
+}

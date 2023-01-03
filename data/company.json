@@ -1,0 +1,14 @@
+{
+	"email": "info@multitransports.ch",
+	"phone": "+41 (0) 79 584 82 84",
+	"address": {
+		"street": "Rte de la Pâle 7",
+		"zip": 1026,
+		"city": "Denges",
+		"country": "Switzerland"
+	},
+	"responsible": "Ronald Le Suisse",
+	"name": "Multitransports",
+	"legal_name": "Multitransports",
+	"social": false
+}

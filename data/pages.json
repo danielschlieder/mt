@@ -1,0 +1,412 @@
+{
+	"content": [
+		{
+			"name": "banner",
+			"title": "",
+			"subtitle": "L'alternative économique et écologique de transport.",
+			"img": {
+				"src": "/img/banner.svg",
+				"alt": "Decoration for banner section",
+				"width": "372px",
+				"height": "372px",
+				"class": null
+			},
+			"logo": {
+				"src": "/img/banner-logo.svg",
+				"alt": "Logo pour la section bannière",
+				"width": "720px",
+				"height": "420px",
+				"class": null
+			}
+		},
+		{
+			"name": "about",
+			"image": {
+				"src": "/img/move.svg",
+				"alt": "Decoration for about section",
+				"width": 720,
+				"height": 720,
+				"class": null
+			},
+			"inner": {
+				"header": {
+					"lead": "À propos ",
+					"title": "Commençons à bouger!",
+					"text": "Multitransports vous livre à l'endroit désiré"
+				},
+				"checked": [
+					{
+						"text": "Sable, Béton et Gravier",
+						"icon": {
+							"type": "FaSolidCheck",
+							"size": 22,
+							"classes": "btn"
+						}
+					},
+					{
+						"text": "Composte et Copeaux",
+						"icon": {
+							"type": "FaSolidCheck",
+							"size": 22,
+							"classes": "btn"
+						}
+					},
+					{
+						"text": "Boulets, Gravillons et Tout-venant",
+						"icon": {
+							"type": "FaSolidCheck",
+							"size": 22,
+							"classes": "btn"
+						}
+					},
+					{
+						"text": "Pont basculant charge de 8 tonnes",
+						"icon": {
+							"type": "FaSolidCheck",
+							"size": 22
+						}
+					},
+					{
+						"text": "Benne (2.5, 3.5, 9 m3), Mini-benne et Big-bag",
+						"icon": {
+							"type": "FaSolidCheck",
+							"size": 22
+						}
+					}
+				],
+				"links": [
+					{
+						"label": "callnow",
+						"text": "+41 (0) 79 584 82 84",
+						"classes": {
+							"text": "nw h5 m-0 "
+						},
+						"href": {
+							"prot": "tel://",
+							"url": "+41 (0) 79 584 82 84"
+						},
+						"icon": {
+							"type": "FaSolidPhone",
+							"size": 22,
+							"classes": "round bg-primary btn-lg"
+						}
+					},
+					{
+						"label": "writeus",
+						"text": "info@multitransports.ch",
+						"classes": {
+							"text": "nw h5 m-0 "
+						},
+						"href": {
+							"prot": "mailto://",
+							"url": "info@multitransports.ch"
+						},
+						"icon": {
+							"type": "FaSolidEnvelope",
+							"size": 22,
+							"classes": "round bg-primary btn-lg"
+						}
+					}
+				],
+				"highlightOFF": {
+					"lead": "10",
+					"text1": "ans",
+					"text2": "d'expérience"
+				}
+			}
+		},
+		{
+			"name": "facts",
+			"items": [
+				{
+					"count": "10",
+					"text": "ans d'expérience",
+					"icon": {
+						"type": "FaSolidCalendar",
+						"size": 72
+					}
+				},
+				{
+					"count": "2569",
+					"text": "livraisons",
+					"icon": {
+						"type": "FaBrandsDeezer",
+						"size": 72
+					}
+				},
+				{
+					"count": "296",
+					"text": "auxiliaires",
+					"icon": {
+						"type": "FaSolidPeopleCarry",
+						"size": 72
+					}
+				}
+			]
+		},
+		{
+			"name": "features",
+			"classes": "ew",
+			"image": {
+				"src": "/img/happy.svg",
+				"alt": "Decoration for about features",
+				"width": 920,
+				"height": 920,
+				"class": ""
+			},
+			"inner": {
+				"header": {
+					"title": "Ce que nous pouvons faire",
+					"lead": "Pourquoi nous choisir?",
+					"text": "Nous sommes votre premier choix pour les transports suivants"
+				},
+				"features": [
+					{
+						"lead": "Livraison de matériaux",
+						"text": "En dehors des fournitures nous transportons également tous matériaux de construction du fournisseur à leur destination finale",
+						"icon": {
+							"type": "FaSolidCheck",
+							"size": 22,
+							"classes": "round bg-primary btn-lg",
+							"align": "start"
+						},
+						"classes": {
+							"lead": "bold tu",
+							"text": "h5"
+						}
+					},
+					{
+						"lead": "Evacuation de déchets",
+						"text": "Evacuation de déchets de jardin, démolition, véhicule hors d'usage, ferrailles etc.",
+						"icon": {
+							"type": "FaSolidCheck",
+							"size": 22,
+							"classes": "round bg-primary btn-lg",
+							"align": "start"
+						},
+						"classes": {
+							"lead": "bold tu",
+							"text": "semi h5"
+						}
+					},
+					{
+						"lead": "Transport de véhicules",
+						"text": "Transports de véhicules avec plateaux charge utile 9.5 tonnes. Nous proposons également le transport de bus, camping-cars et mobile-home",
+						"icon": {
+							"type": "FaSolidCheck",
+							"size": 22,
+							"classes": "round bg-primary btn-lg",
+							"align": "start"
+						},
+						"classes": {
+							"lead": "bold tu",
+							"text": "semi h5"
+						}
+					},
+					{
+						"lead": "Transport de machines de chantier",
+						"text": "Elévateur, rouleau compresseur jusqu'à 9'500 kg sur le camion et jusqu'à 16'000 kg sur la remorque",
+						"icon": {
+							"type": "FaSolidCheck",
+							"size": 22,
+							"classes": "round bg-primary  btn-lg",
+							"align": "start"
+						},
+						"classes": {
+							"lead": "bold tu",
+							"text": "semi h5"
+						}
+					}
+				]
+			}
+		},
+		{
+			"name": "handouts",
+			"items": [
+				{
+					"icon": {
+						"type": "FaSolidShieldAlt",
+						"size": 72
+					},
+					"title": "Sicherheit",
+					"text": "3-fach oder 7-fach Löschung, bis zum Schreddern Ihrer Festplatten. Bei uns sind Ihre Daten sicher vernichtet."
+				},
+				{
+					"icon": {
+						"type": "FaBrandsEnvira",
+						"size": 72
+					},
+					"title": "Ersparnis",
+					"text": "Durch die Rückgabe Ihrer Hardware sparen Sie im Vergleich zur Neuproduktion CO2 ein. Wir stellen Ihnen für Ihre CO2 Ersparnis einen Ersparnisnachweis aus."
+				},
+				{
+					"icon": {
+						"type": "FaMoneyBillAlt",
+						"size": 72
+					},
+					"title": "Liquidität",
+					"text": "Durch den Verkauf Ihrer Hardware, schaffen Sie Liquidität für Neuanschaffungen."
+				}
+			]
+		},
+		{
+			"name": "footer",
+			"office": "Siège",
+			"links": "Liens rapides",
+			"link_items": [
+				{
+					"href": "/legal/imprint",
+					"text": "Mentions légales"
+				},
+				{
+					"href": "/legal/privacy",
+					"text": "Protection des données"
+				},
+				{
+					"href": "/contact",
+					"text": "Contact"
+				}
+			],
+			"hours": false,
+			"hour_items": [
+				{
+					"label": "Montag - Freitag",
+					"text": "09:00 - 19:00"
+				},
+				{
+					"label": "Samstag",
+					"text": "09:00 - 12:00"
+				},
+				{
+					"label": "Sonntags",
+					"text": "Geschlossen"
+				}
+			]
+		}
+	],
+	"pages": [
+		{
+			"name": "layout",
+			"titleExt": "Home",
+			"description": "Votre adresse pour des solutions de transport sûres",
+			"sections": [
+				{
+					"pre": true,
+					"name": "navbar",
+					"comp": "Navbar",
+					"props": {
+						"settings": {
+							"id": "navbar",
+							"height": "75px",
+							"enabled": true
+							
+						}
+					}
+				},
+				{
+					"post": true,
+					"name": "footer",
+					"comp": "Footer",
+					"props": {
+						"settings": {
+							"id": "footer",
+							"height": "calc(290px + 0rem)",
+							"classses": "",
+							"enabled": true,
+							"links": true,
+							"address": true,
+							"hours": false
+						}
+					}
+				},
+				{
+					"post": true,
+					"name": "copyright",
+					"comp": "Copyright",
+					"props": {
+						"settings": {
+							"id": "copyright",
+							"height": "calc(25px + 2rem)",
+							"classses": "",
+							"enabled": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"name": "landing",
+			"titleExt": "Home",
+			"description": "Votre adresse pour des solutions de transport sûres",
+			"sections": [
+				{
+					"name": "banner",
+					"comp": "Banner",
+					"props": {
+						"settings": {
+							"id": "banner",
+							"height": "1280px",
+							"theme": "light",
+							"classses": "",
+							"enabled": true
+						}
+					}
+				},
+				{
+					"name": "about",
+					"comp": "Section",
+					"props": {
+						"settings": {
+							"id": "about",
+							"navBar": true,
+							"height": "calc(800px + 0rem)",
+							"direction": "se",
+							"theme": "light",
+							"enabled": true,
+							"highlight": true
+						}
+					}
+				},
+				{
+					"name": "facts",
+					"comp": "Facts",
+					"props": {
+						"settings": {
+							"id": "facts",
+							"height": "calc(560px + 0rem)",
+							"theme": "light",
+							"classses": "",
+							"enabled": true
+						}
+					}
+				},
+				{
+					"name": "features",
+					"comp": "Section",
+					"props": {
+						"settings": {
+							"id": "features",
+							"height": "calc(960px + 0rem)",
+							"direction": "es",
+							"theme": "light",
+							"enabled": true
+						}
+					}
+				},
+				{
+					"name": "handouts",
+					"comp": "Handouts",
+					"props": {
+						"settings": {
+							"id": "handouts",
+							"height": "calc(750px + 0rem)",
+							"theme": "light",
+							"classses": "",
+							"enabled": true
+						}
+					}
+				}
+			]
+		}
+	]
+}
